@@ -71,3 +71,8 @@ function test2(str){
 /*             function test5(val){
                 return typeof(val) === "string" ? "string" : "not string";
             } */
+
+
+
+
+
